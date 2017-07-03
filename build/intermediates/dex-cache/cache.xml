@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\feiya\Desktop\new_map_app_Massey\MapboxAndroidDemo\build\intermediates\exploded-aar\com.mapzen.android\lost\2.3.0-SNAPSHOT\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e1b119f6eb5084f9f4c8561fe1486714408dc43">
+        <dex dex="C:\Users\feiya\Desktop\new_map_app_Massey\MapboxAndroidDemo\build\intermediates\transforms\dex\gpservices\debug\folders\1000\10\com.mapzen.android-lost-2.3.0-SNAPSHOT_1c62011a201604bb83b9a35d93b925d335162c51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\feiya\.gradle\caches\modules-2\files-2.1\com.mapbox.mapboxsdk\mapbox-java-geojson\2.2.0-SNAPSHOT\2fb01524fcb00f5c73d47703eb59bfde06b7cc75\mapbox-java-geojson-2.2.0-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2fb01524fcb00f5c73d47703eb59bfde06b7cc75">
+        <dex dex="C:\Users\feiya\Desktop\new_map_app_Massey\MapboxAndroidDemo\build\intermediates\transforms\dex\gpservices\debug\folders\1000\10\mapbox-java-geojson-2.2.0-SNAPSHOT_a0193786840932a41fcd01e4190d211ab7ca5816\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\feiya\Desktop\new_map_app_Massey\MapboxAndroidDemo\build\intermediates\incremental-classes\gpservices\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e0f55bd54dfb1febd2769137486715e1b867e52">
+        <dex dex="C:\Users\feiya\Desktop\new_map_app_Massey\MapboxAndroidDemo\build\intermediates\transforms\dex\gpservices\debug\folders\1000\10000\instant-run-bootstrap_1d9c0ba2e05b60e8c1f917025d430a65552871cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\feiya\.gradle\caches\modules-2\files-2.1\com.mapbox.mapboxsdk\mapbox-java-core\2.2.0-SNAPSHOT\a1069b135d566f3df7a9bd8c99c5954333f96d0\mapbox-java-core-2.2.0-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a1069b135d566f3df7a9bd8c99c5954333f96d0">
+        <dex dex="C:\Users\feiya\Desktop\new_map_app_Massey\MapboxAndroidDemo\build\intermediates\pre-dexed\gpservices\debug\mapbox-java-core-2.2.0-SNAPSHOT_13f541fc63f082ef659e0c2968a4b23579b67837.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\feiya\Desktop\new_map_app_Massey\MapboxAndroidDemo\build\intermediates\exploded-aar\com.mapbox.mapboxsdk\mapbox-android-telemetry\2.2.0-SNAPSHOT\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0837fa2b478de89f0955fe1df02c3282c221e25f">
+        <dex dex="C:\Users\feiya\Desktop\new_map_app_Massey\MapboxAndroidDemo\build\intermediates\pre-dexed\gpservices\debug\com.mapbox.mapboxsdk-mapbox-android-telemetry-2.2.0-SNAPSHOT_d4a72cd0abdf27b09ae9d52d255dd9614a28bc2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\feiya\Desktop\new_map_app_Massey\MapboxAndroidDemo\build\intermediates\exploded-aar\com.mapzen.android\lost\2.3.0-SNAPSHOT\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e1b119f6eb5084f9f4c8561fe1486714408dc43">
+        <dex dex="C:\Users\feiya\Desktop\new_map_app_Massey\MapboxAndroidDemo\build\intermediates\pre-dexed\gpservices\debug\com.mapzen.android-lost-2.3.0-SNAPSHOT_1c62011a201604bb83b9a35d93b925d335162c51.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\feiya\Desktop\new_map_app_Massey\MapboxAndroidDemo\build\intermediates\exploded-aar\com.mapbox.mapboxsdk\mapbox-android-telemetry\2.2.0-SNAPSHOT\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0837fa2b478de89f0955fe1df02c3282c221e25f">
+        <dex dex="C:\Users\feiya\Desktop\new_map_app_Massey\MapboxAndroidDemo\build\intermediates\transforms\dex\gpservices\debug\folders\1000\10\com.mapbox.mapboxsdk-mapbox-android-telemetry-2.2.0-SNAPSHOT_d4a72cd0abdf27b09ae9d52d255dd9614a28bc2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\feiya\.gradle\caches\modules-2\files-2.1\com.mapbox.mapboxsdk\mapbox-java-core\2.2.0-SNAPSHOT\a1069b135d566f3df7a9bd8c99c5954333f96d0\mapbox-java-core-2.2.0-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a1069b135d566f3df7a9bd8c99c5954333f96d0">
+        <dex dex="C:\Users\feiya\Desktop\new_map_app_Massey\MapboxAndroidDemo\build\intermediates\transforms\dex\gpservices\debug\folders\1000\10\mapbox-java-core-2.2.0-SNAPSHOT_13f541fc63f082ef659e0c2968a4b23579b67837\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\feiya\.gradle\caches\modules-2\files-2.1\com.mapbox.mapboxsdk\mapbox-java-geojson\2.2.0-SNAPSHOT\2fb01524fcb00f5c73d47703eb59bfde06b7cc75\mapbox-java-geojson-2.2.0-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2fb01524fcb00f5c73d47703eb59bfde06b7cc75">
+        <dex dex="C:\Users\feiya\Desktop\new_map_app_Massey\MapboxAndroidDemo\build\intermediates\pre-dexed\gpservices\debug\mapbox-java-geojson-2.2.0-SNAPSHOT_a0193786840932a41fcd01e4190d211ab7ca5816.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\feiya\Desktop\new_map_app_Massey\MapboxAndroidDemo\build\intermediates\exploded-aar\com.mapbox.mapboxsdk\mapbox-android-sdk\5.1.0-SNAPSHOT\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="77ef71b5faa8a4a8baf536acebe588d6ba3d42c6">
+        <dex dex="C:\Users\feiya\Desktop\new_map_app_Massey\MapboxAndroidDemo\build\intermediates\transforms\dex\gpservices\debug\folders\1000\10\com.mapbox.mapboxsdk-mapbox-android-sdk-5.1.0-SNAPSHOT_ffb7956d27004f717a5387d09c50b360d9c84890\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\feiya\Desktop\new_map_app_Massey\MapboxAndroidDemo\build\intermediates\incremental-runtime-classes\gpservices\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\feiya\Desktop\new_map_app_Massey\MapboxAndroidDemo\build\intermediates\transforms\dex\gpservices\debug\folders\1000\10000\instant-run_07d8fab6a2d70b88a7b1acd6ce39df548527b745\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\feiya\Desktop\new_map_app_Massey\MapboxAndroidDemo\build\intermediates\exploded-aar\com.mapbox.mapboxsdk\mapbox-android-sdk\5.1.0-SNAPSHOT\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="77ef71b5faa8a4a8baf536acebe588d6ba3d42c6">
+        <dex dex="C:\Users\feiya\Desktop\new_map_app_Massey\MapboxAndroidDemo\build\intermediates\pre-dexed\gpservices\debug\com.mapbox.mapboxsdk-mapbox-android-sdk-5.1.0-SNAPSHOT_ffb7956d27004f717a5387d09c50b360d9c84890.jar" />
+    </item>
+
+</items>
